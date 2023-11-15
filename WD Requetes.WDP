@@ -1,0 +1,177 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Requetes
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Requêtes
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Requetes
+    internal_properties : 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
+    configuration_id : 17118623078867194687
+    type : 1
+    generation_name : WD Requetes.exe
+    version :
+     version : VI200027
+     autoincrement_version : false
+    icon_filename : .\requête.ico
+    language : 1
+ elements :
+  identifier : 0x4acc53540025006e
+  elements :
+   -
+     name : REQ_CALCUL
+     identifier : 0x3e53c52e359d545c
+     internal_properties : CAAAAAgAAAC3k5+DIB0VFiGkffdUMgaXK7ryesNW/HCKPO8XKEhClqZei1XbbQV7frginmaaZlqiog==
+     physical_name : .\REQ_CALCUL.WDR
+     type : 5
+   -
+     name : REQ_SELECTION_PARAMETRE
+     identifier : 0x3e53c529429e545c
+     internal_properties : CAAAAAgAAABUMrz4x7z090AToLqPdkNUZHcD61jb3JZS+qWZoMDUJNgWzZOYqDouLReBfwf5gXdBwQ==
+     physical_name : .\REQ_SELECTION_PARAMETRE.WDR
+     type : 5
+   -
+     name : ETAT_REQUETE_CALCUL
+     identifier : 0x3e53c52b07ae545c
+     internal_properties : CAAAAAgAAAD7VyNnRAEpMj3AGRMwAB6nL0L+Zlr84tSu4wpgyVZEjKhknUPvEaGXWsQ+unp2AvbeZg==
+     physical_name : .\ETAT_REQUETE_CALCUL.wde
+     type : 3
+   -
+     name : FEN_REQUETE_SIMPLE
+     identifier : 0x3e53c52a0325545c
+     internal_properties : CAAAAAgAAAC/m5eLOGVNXmn8BR8sLYpzMxB+5uhKiTpKhIkhuEdPkXO9QCADBZ2TRvDq1l6SbmKqqg==
+     physical_name : .\FEN_REQUETE_SIMPLE.wdw
+     type : 2
+   -
+     name : TEST_REQUETE_PARAMETRE
+     identifier : 0x472f156e00040068
+     internal_properties : CAAAAAgAAAC5leElgv+3uAfGY/lOQOhljYzUzPw2YKd2JdZcoZ785Nw0MT/hZ/txYNrEPMQ8xDScpA==
+     physical_name : .\TEST_REQUETE_PARAMETRE.wxt
+     type : 17
+   -
+     name : TEST_INFO
+     identifier : 0x472f156d0002fbf5
+     internal_properties : CAAAAAgAAADnY8/T0I2lRhEUrYeE12Zfm/TWxuxmPH9KKDc7dqn148EfJsprnTUrLujSLvbqlgrycg==
+     physical_name : .\TEST_Info.wxt
+     type : 17
+   -
+     name : TEST_MENU
+     identifier : 0x472f154f00008994
+     internal_properties : CAAAAAgAAAANCWW5BnM7ZHMCX9VqnjC1+YSw4OTWIANOa4Dqo4wGKi7Sc221S+ddHAbwyEi4QLAYGA==
+     physical_name : .\TEST_Menu.wxt
+     type : 17
+   -
+     name : TEST_REQUETE_CALCUL
+     identifier : 0x472f156d0003fe08
+     internal_properties : CAAAAAgAAADXsz9jQD11dsGE3Vf0GaKj+4i23vAKeH9yAtWdvGMzjbdZ5Pw7zWXbnpgC/oZ6BvrCQg==
+     physical_name : .\TEST_REQUETE_CALCUL.wxt
+     type : 17
+   -
+     name : FEN_REQUETE_PARAMETRE
+     identifier : 0x3e53c52f50d9545c
+     internal_properties : CAAAAAgAAADXsz9jQD11dsGE3Vf0GqYnS2oCmkKsp7R2JeCSDzDafp5G4/07zWXbnpgC/oZ6BvrCQg==
+     physical_name : .\FEN_REQUETE_PARAMETRE.wdw
+     type : 2
+   -
+     name : FEN_INFO
+     identifier : 0x3e53c52878bb545c
+     internal_properties : CAAAAAgAAACppZH1Mm9HaHc2U8l+lSidLU7oyPZAX+SKHP21iGcv0XelXHSxV+thEAr0zFSMdGSstA==
+     physical_name : .\FEN_Info.wdw
+     type : 2
+   -
+     name : REQ_SELECTION_SIMPLE
+     identifier : 0x3e53c53145dd545c
+     internal_properties : CAAAAAgAAACwjug086gAGySnxF7j40Os8P1Px36Zlxh2YZxaZ1k7laNP8OBExF7SgbslkxPNtSuVnQ==
+     physical_name : .\REQ_SELECTION_SIMPLE.WDR
+     type : 5
+   -
+     name : FEN_MENU
+     identifier : 0x3e53c53254c4545c
+     internal_properties : CAAAAAgAAADOVCZ6yfa+8f6N1kzBylmuhuXtBeFJN9D2dYQq50TIWKgaBdte4nDkl4F7Rc0D//HbWw==
+     physical_name : .\FEN_Menu.wdw
+     type : 2
+   -
+     name : TEST_REQUETE_SIMPLE
+     identifier : 0x472f156c0001f9f2
+     internal_properties : CAAAAAgAAAAjHxsPvOnB2uV4gZuoonrLf252XnaIIjGOl1gSDxCCfkaOm7V3iRkPwnxmUtIO6t4mLg==
+     physical_name : .\TEST_REQUETE_SIMPLE.wxt
+     type : 17
+   -
+     name : FEN_REQUETE_CALCUL
+     identifier : 0x3e53c533373e545c
+     internal_properties : CAAAAAgAAACc+vQgn8Rsf8iL6ELHymu0zF/Lg0/hCdZODxoYu0TQyDT6Ccdg4HLmlY8J978xyT+JiQ==
+     physical_name : .\FEN_REQUETE_CALCUL.wdw
+     type : 2
+   -
+     name : TEST_REQUETE_SIMPLE_ASYNCHRONE
+     identifier : 0x4fad74f0008f6cc4
+     internal_properties : CAAAAAgAAABiex28DU9CFss6F2tSffj9eRnMEjt+P0QF8/p6iPv5kYaxfmQ+5+dqmaFek/fvFQ==
+     physical_name : .\TEST_REQUETE_SIMPLE_ASYNCHRONE.wxt
+     type : 17
+   -
+     name : FEN_REQUETE_SIMPLE_ASYNCHRONE
+     identifier : 0x4fad72f90069c124
+     internal_properties : CAAAAAgAAAA3Aa35+vgZmPagjNg0Sk6fzy708FP81BnD8wz7589Eo70ie4qYxn4ZyfuGMh39uiEy
+     physical_name : .\FEN_REQUETE_SIMPLE_ASYNCHRONE.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Requetes.ana\WD Requetes.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAABTZJPYQlIeJ08okTqJNGLejKM9O7CF7qIKduNWpo94H4UduZTRpBU65UF4iibahAjR57KVrhfPUr+FAwowZXtGPXTRl+odyFE7
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Requetes
+     identifier : 0x4acc53540035010a
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
